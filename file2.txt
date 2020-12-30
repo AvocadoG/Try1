@@ -1,2 +1,4 @@
 hello, file 2 subbranch1
 again, file 2 subbranch1
+
+localsubbranch2
