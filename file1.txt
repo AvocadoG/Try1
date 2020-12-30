@@ -1,2 +1,4 @@
 hello, file1 subbranch1
 again, file1 subbranch1
+
+this is subbranch2
