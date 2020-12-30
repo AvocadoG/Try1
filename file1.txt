@@ -7,3 +7,5 @@ this is local subbranch1 for subbranch1
 
 subbranch1
 localsubbranch2
+
+sub2
